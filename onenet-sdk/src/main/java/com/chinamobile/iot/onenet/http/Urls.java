@@ -6,6 +6,6 @@ public class Urls {
 
     public static String sHost = "209.150.154.128";
 
-    public  static String sPort = "876";
+    public  static int sPort = 876;
 
 }
