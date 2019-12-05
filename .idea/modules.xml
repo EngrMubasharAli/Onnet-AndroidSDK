@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Onnet-AndroidSDK.iml" filepath="$PROJECT_DIR$/Onnet-AndroidSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onenet-sdk/onenet-sdk.iml" filepath="$PROJECT_DIR$/onenet-sdk/onenet-sdk.iml" />
     </modules>
   </component>
 </project>
