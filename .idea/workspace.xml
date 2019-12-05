@@ -295,7 +295,7 @@
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Debug" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="4" sideWeight="0.42550334" side_tool="true" visible="true" weight="0.3289855" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.42550334" side_tool="true" weight="0.3289855" />
       <window_info anchor="bottom" id="Flutter Performance" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.3289855" />
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.5744966" visible="true" weight="0.3289855" />

@@ -5,7 +5,7 @@
 
 ![](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
-This project is a client SDK developed by **China Mobile Internet of Things Company** 为方便Android开发者接入 **OneNET** 平台而开发的客户端SDK。关于 **OneNET** 请进入This project is a client SDK developed by ** China Mobile Internet of Things Company ** to facilitate Android developers to access the ** OneNET ** platform. About ** OneNET ** Please enter [** OneNET Portal **] (http://open.iot.10086.cn) for details.
+This project is a client SDK developed by ** China Mobile Internet of Things Company ** to facilitate Android developers to access the ** OneNET ** platform. About ** OneNET ** Please enter [** OneNET Portal **] (http://open.iot.10086.cn) for details.
 
 
 ## System Requirements
