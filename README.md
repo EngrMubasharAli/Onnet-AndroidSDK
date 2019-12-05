@@ -5,9 +5,7 @@
 
 ![](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
-本项目是 **中移物联网公司** 为方便Android开发者接入 **OneNET** 平台而开发的客户端SDK。关于 **OneNET** 请进入 [**OneNET门户**](http://open.iot.10086.cn) 了解详情。
-
-This project is a client SDK developed by ** China Mobile Internet of Things Company ** to facilitate Android developers to access the ** OneNET ** platform. About ** OneNET ** Please enter [** OneNET Portal **] (http://open.iot.10086.cn) for details.
+This project is a client SDK developed by **China Mobile Internet of Things Company** 为方便Android开发者接入 **OneNET** 平台而开发的客户端SDK。关于 **OneNET** 请进入This project is a client SDK developed by ** China Mobile Internet of Things Company ** to facilitate Android developers to access the ** OneNET ** platform. About ** OneNET ** Please enter [** OneNET Portal **] (http://open.iot.10086.cn) for details.
 
 
 ## System Requirements
@@ -30,7 +28,7 @@ Detailed instructions **please refer to [wiki documentation](https://github.com/
 
 
 The v2.0 version provides more beautiful and rich sample apps for developers' reference. It follows the style of Google Material Design and is completely open source. Developers can view the details of the Clone project source code.
-也可以在此 [**下载安装包**](OneNET_SDK-Sample.apk)
+You can also download it here [**Download installation package**](OneNET_SDK-Sample.apk)
 
 ![](screenshots/1.png) ![](screenshots/2.png)
 ![](screenshots/3.png) ![](screenshots/4.png)
