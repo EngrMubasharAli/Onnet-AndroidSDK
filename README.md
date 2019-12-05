@@ -1,65 +1,65 @@
 # OneNET RESTful SDK for Android
 
-[ ![Download](https://api.bintray.com/packages/darren/maven/onenet-sdk/images/download.svg) ](https://bintray.com/darren/maven/onenet-sdk/_latestVersion)
-[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)]()
+[! [Download] (https://api.bintray.com/packages/darren/maven/onenet-sdk/images/download.svg)] (https://bintray.com/darren/maven/onenet-sdk/ _latestVersion)
+[! [License] (http://img.shields.io/badge/license-MIT-green.svg?style=flat)] ()
 
-![](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+! [] (app / src / main / res / mipmap-xxxhdpi / ic_launcher.png)
 
-本项目是 **中移物联网公司** 为方便Android开发者接入 **OneNET** 平台而开发的客户端SDK。关于 **OneNET** 请进入 [**OneNET门户**](http://open.iot.10086.cn) 了解详情。
+This project is a client SDK developed by ** China Mobile Internet of Things Company ** to facilitate Android developers to access the ** OneNET ** platform. About ** OneNET ** Please enter [** OneNET Portal **] (http://open.iot.10086.cn) for details.
 
-## 系统要求
+## System Requirements
 
-- SDK运行要求：Android 1.6 (API 4) 及以上
-- Sample运行要求：Android 4.1 (API 16) 及以上
+-SDK running requirements: Android 1.6 (API 4) and above
+-Sample running requirements: Android 4.1 (API 16) and above
 
-## 使用方法
+## Instructions
 
-```gradle
+`` `gradle
 dependencies {
-    implementation 'com.chinamobile.iot.onenet:onenet-sdk:2.2.1'
+    implementation 'com.chinamobile.iot.onenet: onenet-sdk: 2.2.1'
 }
-```
+`` `
 
-详细说明**请参考 [wiki 文档](https://github.com/cm-heclouds/AndroidSDK/wiki)**
+Detailed instructions ** please refer to [wiki documentation] (https://github.com/cm-heclouds/AndroidSDK/wiki) **
 
-## 示例
+## Example
 
-v2.0版本提供了更加美观和丰富的示例App供开发者参考，遵循Google Material Design风格，完全开源，开发者可以Clone项目源码查看详细内容。
+The v2.0 version provides more beautiful and rich sample apps for developers' reference. It follows the style of Google Material Design and is completely open source. Developers can view the details of the Clone project source code.
 
-也可以在此 [**下载安装包**](OneNET_SDK-Sample.apk)
+You can also download it here [** Download installation package **] (OneNET_SDK-Sample.apk)
 
-![](screenshots/1.png) ![](screenshots/2.png)
-![](screenshots/3.png) ![](screenshots/4.png)
-![](screenshots/5.png) ![](screenshots/6.png)
-![](screenshots/7.png) ![](screenshots/8.png)
-![](screenshots/9.png) ![](screenshots/10.png)
+! [] (screenshots / 1.png)! [] (screenshots / 2.png)
+! [] (screenshots / 3.png)! [] (screenshots / 4.png)
+! [] (screenshots / 5.png)! [] (screenshots / 6.png)
+! [] (screenshots / 7.png)! [] (screenshots / 8.png)
+! [] (screenshots / 9.png)! [] (screenshots / 10.png)
 
-## 使用的第三方库
+## Third-party libraries used
 
 ### SDK
 
-- [OkHttp](https://github.com/square/okhttp)
+-[OkHttp] (https://github.com/square/okhttp)
 
 ### Sample App
 
-- Android AppCompat v7
-- Android Design Support Library
-- Android CardView v7
-- Android RecyclerView v7
-- [Gson](https://github.com/google/gson)
-- [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
-- [FloatingActionButton](https://github.com/Clans/FloatingActionButton)
+-Android AppCompat v7
+-Android Design Support Library
+-Android CardView v7
+-Android RecyclerView v7
+-[Gson] (https://github.com/google/gson)
+-[BaseRecyclerViewAdapterHelper] (https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+-[FloatingActionButton] (https://github.com/Clans/FloatingActionButton)
 
-## 说明
+## Description
 
-- v2.0 版本完全重写了 SDK，传输层使用 [OkHttp3](https://github.com/square/okhttp)，API根据 [OneNET RESTful 文档](http://www.heclouds.com/doc/art262.html#68) 做了相应的增减，API 与 v1.x 不兼容，请使用了 v1.x 版本的开发者慎重升级。
-- 更新到 v2.x 的开发者，如果要查看 v1.x 的代码，只要 `git checkout OneNETSDK-v1` 即可，或 [在此查看](https://github.com/cm-heclouds/AndroidSDK/tree/OneNETSDK-v1)。
+-The v2.0 version completely rewrites the SDK. The transport layer uses [OkHttp3] (https://github.com/square/okhttp). The API is based on [OneNET RESTful documentation] (http://www.heclouds.com/doc /art262.html#68) has been added and subtracted accordingly, the API is not compatible with v1.x, please use the v1.x version developers to upgrade carefully.
+-Developers who have updated to v2.x, if you want to view the code of v1.x, just `git checkout OneNETSDK-v1`, or [View here] (https://github.com/cm-heclouds/AndroidSDK / tree / OneNETSDK-v1).
 
-## 反馈及意见
+## Feedback and comments
 
-SDK 使用过程中遇到的任何问题，都可以通过 Issues 来反馈，请尽可能的描述清楚遇到的问题，如果有错误信息也一同附带，并且在 Labels 中指明类型为 bug 或者其他，我们会以最快的速度给予解决。
+Any problems encountered in the SDK use process can be feedbacked through Issues. Please describe the problems encountered as clearly as possible. If there is an error message attached, and the type is specified as bug or other in Labels, we will use Fastest solution.
 
-[通过这里查看已有的 Issues 和提交 Bug](https://github.com/cm-heclouds/AndroidSDK/issues)
+[View the existing Issues and submit bugs here] (https://github.com/cm-heclouds/AndroidSDK/issues)
 
 ## License
 
@@ -70,7 +70,7 @@ The MIT License (MIT)
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
     in the Software without restriction, including without limitation the rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    to use, copy, modify, merge, publish, distribute, sublicense, and / or sell
     copies of the Software, and to permit persons to whom the Software is
     furnished to do so, subject to the following conditions:
 
